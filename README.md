@@ -1,2 +1,1 @@
-# Prepcourse_Henry
-curso inicial henry modulo2
+este es un proyecto de como modificar un codigo desde modo local y subirlo a la github prueba enero 2023
